@@ -1,61 +1,87 @@
 # Hi there 👋, I'm Visaka P
 
-💻 **Full-Stack Development Enthusiast**
+💻 B.Tech Computer Science and Business Systems (CSBS) Student
 
-🚀 Passionate about building modern web applications and solving real-world problems through code. I enjoy creating clean, responsive, and user-friendly applications while continuously improving my technical skills.
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-- 🌐 HTML5
-- 🎨 CSS3
-- 🟨 JavaScript
-- ⚛️ React
-
-### ⚙️ Backend
-- 🟢 Node.js
-- 🚂 Express.js
-
-### 🗄️ Database
-- 🍃 MongoDB
-- 🐬 MySQL
+## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
-- ☕ Java
-- 🐍 Python
-- 🟨 JavaScript
 
-## 🧠 Core Computer Science
+* ☕ Java
 
-- 📦 Object-Oriented Programming (OOP)
-- 🧩 Data Structures & Algorithms (DSA)
-- 🗃️ Database Management Systems (DBMS)
-- 💾 Operating Systems (OS)
+### 🎨 Frontend
 
-## 🚀 Experience
+* 🌐 HTML
+* 🎨 CSS
+* 🟨 JavaScript
+* ⚛️ React
+* 🅱️ Bootstrap
+* 💛 jQuery
 
-- 💡 Developed Full-Stack Web Applications
-- 🎨 Built Responsive Frontend Interfaces
-- 🔗 Designed RESTful APIs
-- 🗄️ Worked with Databases and Backend Services
+### ⚙️ Backend
+
+* 🟢 Node.js
+* 🚂 Express.js
+
+### 🗄️ Database
+
+* 🍃 MongoDB
+
+### 🛠️ Tools
+
+* 💻 Visual Studio Code
+* 💡 IntelliJ IDEA
+* 📒 Google Colab
+* 🎨 Canva
+* 🎯 Figma
+
+### 🖥️ Operating Systems
+
+* Windows
+* Linux
+
+## 🧠 Area of Interest
+
+* 📦 Data Structures
+* 🧩 Object-Oriented Programming
+* 🗃️ Database Management System
+* 💾 Operating Systems
+
+## 💼 Experience
+
+**Frontend Developer Intern**
+**Ariv Executions, Madurai**
+
+* Designed UI prototypes using Figma.
+* Developed a responsive e-commerce webpage using HTML, CSS, Bootstrap, JavaScript, and jQuery.
+
+## 🚀 Projects
+
+### 📌 R&D Management Portal
+
+* React
+* Node.js
+* Express.js
+* MongoDB
+
+### 📌 Deep Learning Based Classification of Healthcare Waste
+
+* Python
+* TensorFlow
+* EfficientNet
+
+## 🏆 Achievements
+
+* 🥈 Runner-up – International Hackathon, TCE Sathyam Group
+* 🥉 Second Runner-up – CASELABS '23, TCE
+* ⭐ FAER-Scholar Award Program Finalist
+
+## 🤝 Leadership
+
+* Office Bearer, IoT Club, TCE
+* Office Bearer, IEEE CIS, TCE
+* Web Design Lead, IETSC, TCE
+* Student Coordinator, IPR Innovators Club, TCE
 
 ---
 
-### 🌟 Motto
-
-> **"Code. Learn. Build. Repeat."** 🚀
-
-<!--
-**visakavel14/visakavel14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **Code. Learn. Build. Repeat.**
